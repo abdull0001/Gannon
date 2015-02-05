@@ -1,4 +1,5 @@
-name,gravatar,commits,insertions,deletions,percentage-of-changes,
+
+
 Adam Haney,http://www.gravatar.com/avatar/4ae4ed3d065bb09757db0e612e33353b?default=identicon,1,1,1,0.00,
 Adam Wentz,http://www.gravatar.com/avatar/780448864ccc78002986af9501a5984b?default=identicon,1,8,3,0.00,
 Adrian Holovaty,http://www.gravatar.com/avatar/0e4a313a845e7e83d8c9e5dd97f7d016?default=identicon,1616,67778,35201,14.24,
